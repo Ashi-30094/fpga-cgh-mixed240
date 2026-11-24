@@ -1,15 +1,15 @@
-# Vivado 自動生成・一時ファイル
+# Vivado auto-generated folders
 *.cache/
 *.hw/
 *.ip_user_files/
 *.runs/
 *.sim/
 *.gen/
-*.srcs/
-*.xpr
+.Xil/
+
+# Vivado logs and backup files
 *.jou
 *.log
 *.str
-.Xil/
-vivado*.backup.jou
-vivado*.backup.log
+*.backup.jou
+*.backup.log
